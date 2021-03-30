@@ -2,6 +2,8 @@
 
 A basic `Angular-CRUD` app 
 
+This mini app shows some customer details (with four fields namely ID, NAME, SURNAME, STATUS) pulled from a database via an api, included CRUD operations. It is a raw app therefore any further functionality or designing is not included, like validation, css-styling except some alignments etc.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.6.
 
 ## Development server
