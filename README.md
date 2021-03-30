@@ -1,6 +1,6 @@
 # CustomerAdministration
 
-##A basic `Angular-CRUD` app 
+## A basic `Angular-CRUD` app 
 
 This mini app shows some customer details (with four fields namely ID, NAME, SURNAME, STATUS) pulled from a database via an api, included CRUD operations. It is a raw app therefore any further functionality or designing is not included, like validation, css-styling except some alignments etc.
 
